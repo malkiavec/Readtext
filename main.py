@@ -121,7 +121,7 @@ def passes_user_filters(nums):
     Filters remembered from prior work:
     1) Remove combos with 5 consecutive numbers.
     2) Remove combos where all 6 numbers fall within the same tenth (decade).
-    3) Remove combos where numbers are within a 10-number range.
+    3) Remove combos where  all numbers are within a 10-number range.
     4) Remove combos with 4 consecutive numbers.
     5) Remove combos where first and last number are exactly 7,8,9 apart.
     6) Remove combos where 5+ numbers share same last digit.
