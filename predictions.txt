@@ -74,3 +74,136 @@ RF prediction: [9, 17, 24, 33, 42, 50]
 NN prediction: [1, 7, 9, 15, 16, 48]
 
 FINAL (ensemble+filters): [31, 36, 50, 52, 53, 57]  | score=2300.3709
+
+==================================================
+Last draw date: 2026-08-22
+Last draw: [22, 27, 29, 30, 34, 50] | Bonus: 6
+
+Key lags (lag, |corr|, corr):
+  lag=16  |corr|=0.0350  corr=0.0350
+  lag=17  |corr|=0.0337  corr=0.0337
+  lag= 6  |corr|=0.0282  corr=-0.0282
+  lag= 2  |corr|=0.0222  corr=-0.0222
+  lag=28  |corr|=0.0219  corr=0.0219
+
+Markov top-12: [31, 37, 30, 36, 35, 32, 34, 40, 38, 28, 39, 43]
+HMM(top sum-bin) top-12: [54, 55, 59, 52, 57, 58, 53, 56, 48, 51, 41, 47]
+Sum-transition top-12: [58, 55, 50, 27, 30, 34, 31, 57, 43, 40, 15, 29]
+RF prediction: [8, 17, 24, 34, 42, 52]
+NN prediction: [1, 2, 8, 18, 41, 48]
+
+FINAL (ensemble+filters): [27, 43, 54, 55, 57, 58]  | score=2443.7460
+
+==================================================
+Last draw date: 2026-09-05
+Last draw: [4, 6, 22, 50, 53, 58] | Bonus: 14
+
+Key lags (lag, |corr|, corr):
+  lag=16  |corr|=0.0357  corr=0.0357
+  lag=17  |corr|=0.0351  corr=0.0351
+  lag= 6  |corr|=0.0274  corr=-0.0274
+  lag= 2  |corr|=0.0226  corr=-0.0226
+  lag=28  |corr|=0.0222  corr=0.0222
+
+Markov top-12: [7, 11, 9, 8, 10, 5, 1, 2, 15, 3, 6, 59]
+HMM(top sum-bin) top-12: [55, 59, 54, 52, 57, 58, 53, 51, 56, 48, 41, 50]
+Sum-transition top-12: [50, 34, 55, 58, 30, 43, 27, 38, 40, 54, 29, 49]
+RF prediction: [10, 19, 25, 34, 42, 52]
+NN prediction: [1, 2, 8, 18, 41, 48]
+
+FINAL (ensemble+filters): [27, 43, 54, 55, 57, 58]  | score=2461.7954
+
+==================================================
+Last draw date: 2026-09-05
+Last draw: [4, 6, 22, 50, 53, 58] | Bonus: 14
+
+Key lags (lag, |corr|, corr):
+  lag=16  |corr|=0.0357  corr=0.0357
+  lag=17  |corr|=0.0351  corr=0.0351
+  lag= 6  |corr|=0.0274  corr=-0.0274
+  lag= 2  |corr|=0.0226  corr=-0.0226
+  lag=28  |corr|=0.0222  corr=0.0222
+
+Markov top-12: [7, 11, 9, 8, 10, 5, 1, 2, 15, 3, 6, 59]
+HMM(top sum-bin) top-12: [55, 59, 54, 52, 57, 58, 53, 51, 56, 48, 41, 50]
+Sum-transition top-12: [50, 34, 55, 58, 30, 43, 27, 38, 40, 54, 29, 49]
+RF prediction: [10, 19, 25, 34, 42, 52]
+NN prediction: [1, 7, 9, 15, 16, 48]
+
+FINAL (ensemble+filters): [27, 43, 54, 55, 57, 58]  | score=2461.7954
+
+==================================================
+Last draw date: 2026-09-16
+Last draw: [7, 12, 14, 34, 41, 56] | Bonus: 6
+
+Key lags (lag, |corr|, corr):
+  lag=16  |corr|=0.0357  corr=0.0357
+  lag=17  |corr|=0.0350  corr=0.0350
+  lag= 6  |corr|=0.0269  corr=-0.0269
+  lag= 2  |corr|=0.0225  corr=-0.0225
+  lag= 7  |corr|=0.0218  corr=-0.0218
+
+Markov top-12: [16, 15, 13, 19, 8, 17, 42, 14, 43, 18, 20, 44]
+HMM(top sum-bin) top-12: [1, 2, 5, 4, 13, 6, 7, 3, 10, 12, 8, 17]
+Sum-transition top-12: [8, 15, 11, 19, 2, 17, 31, 18, 4, 16, 9, 7]
+RF prediction: [8, 17, 24, 33, 41, 50]
+NN prediction: [1, 2, 8, 18, 41, 48]
+
+FINAL (ensemble+filters): [2, 4, 8, 11, 13, 15]  | score=2439.8786
+
+==================================================
+Last draw date: 2026-10-14
+Last draw: [8, 21, 35, 36, 55, 56] | Bonus: 1
+
+Key lags (lag, |corr|, corr):
+  lag=17  |corr|=0.0363  corr=0.0363
+  lag=16  |corr|=0.0352  corr=0.0352
+  lag= 6  |corr|=0.0284  corr=-0.0284
+  lag= 2  |corr|=0.0240  corr=-0.0240
+  lag=28  |corr|=0.0232  corr=0.0232
+
+Markov top-12: [57, 12, 37, 41, 39, 59, 38, 58, 1, 40, 3, 9]
+HMM(top sum-bin) top-12: [8, 16, 2, 9, 15, 26, 7, 13, 5, 11, 6, 23]
+Sum-transition top-12: [53, 57, 55, 50, 58, 51, 40, 49, 59, 36, 52, 44]
+RF prediction: [12, 21, 29, 37, 45, 52]
+NN prediction: [1, 2, 8, 18, 41, 48]
+
+FINAL (ensemble+filters): [27, 30, 31, 53, 55, 57]  | score=2205.0474
+
+==================================================
+Last draw date: 2026-10-14
+Last draw: [8, 21, 35, 36, 55, 56] | Bonus: 1
+
+Key lags (lag, |corr|, corr):
+  lag=17  |corr|=0.0363  corr=0.0363
+  lag=16  |corr|=0.0352  corr=0.0352
+  lag= 6  |corr|=0.0284  corr=-0.0284
+  lag= 2  |corr|=0.0240  corr=-0.0240
+  lag=28  |corr|=0.0232  corr=0.0232
+
+Markov top-12: [57, 12, 37, 41, 39, 59, 38, 58, 1, 40, 3, 9]
+HMM(top sum-bin) top-12: [8, 16, 2, 9, 15, 26, 7, 13, 5, 11, 6, 23]
+Sum-transition top-12: [53, 57, 55, 50, 58, 51, 40, 49, 59, 36, 52, 44]
+RF prediction: [12, 21, 29, 37, 45, 52]
+NN prediction: [1, 7, 9, 15, 16, 48]
+
+FINAL (ensemble+filters): [27, 30, 31, 53, 55, 57]  | score=2205.0474
+
+==================================================
+Last draw date: 2026-10-14
+Last draw: [8, 21, 35, 36, 55, 56] | Bonus: 1
+
+Key lags (lag, |corr|, corr):
+  lag=17  |corr|=0.0363  corr=0.0363
+  lag=16  |corr|=0.0352  corr=0.0352
+  lag= 6  |corr|=0.0284  corr=-0.0284
+  lag= 2  |corr|=0.0240  corr=-0.0240
+  lag=28  |corr|=0.0232  corr=0.0232
+
+Markov top-12: [57, 12, 37, 41, 39, 59, 38, 58, 1, 40, 3, 9]
+HMM(top sum-bin) top-12: [8, 16, 2, 9, 15, 26, 7, 13, 5, 11, 6, 23]
+Sum-transition top-12: [53, 57, 55, 50, 58, 51, 40, 49, 59, 36, 52, 44]
+RF prediction: [12, 21, 29, 37, 45, 52]
+NN prediction: [1, 2, 8, 18, 41, 48]
+
+FINAL (ensemble+filters): [27, 30, 31, 53, 55, 57]  | score=2205.0474
